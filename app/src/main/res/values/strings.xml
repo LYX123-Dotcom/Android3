@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">andriod3</string>
+    <string name="input_something">输入要正向传递的内容</string>
+    <string name="second_activity">正向传参</string>
+    <string name="third_activity">反向传参</string>
+    <string name="fourth_activity">拍照</string>
+    <string name="fifth_activity">计时器</string>
+    <string name="result_default">第2个二级Activity返回的内容显示在这里</string>
+    <string name="input_back">请输入要返回给MainActivity的内容</string>
+    <string name="confirm">确定并返回</string>
+    <string name="fourth_title">第3个二级Activity</string>
+    <string name="take_photo">调用系统相机拍照</string>
+    <string name="photo_desc">拍摄的照片</string>
+    <string name="timer">00:00:00</string>
+    <string name="start">开始</string>
+    <string name="stop">停止</string>
+    <string name="restart">重新开始</string>
+</resources>
